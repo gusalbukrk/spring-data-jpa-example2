@@ -1,0 +1,1 @@
+INSERT INTO fruits (name) VALUES ('banana'), ('grapes');
